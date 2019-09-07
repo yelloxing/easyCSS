@@ -1,3 +1,13 @@
+/**
+* 统一不同浏览器的基础样式
+*
+* @since v0.1.0 
+* @public
+* 
+* 引入方式：
+* import '@yelloxing/normalize.css';
+*/
+
 html {
     /*
   ------------------
