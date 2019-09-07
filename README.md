@@ -27,6 +27,15 @@ npm install --save @yelloxing/normalize.css
 import '@yelloxing/normalize.css';
 ```
 
+## Style List
+除了上面说的用于浏览器统一样式的基础样式，下面列出一些有用的补充，每个都可以在需要的时候独立引入：
+
+- 十二栅格化
+
+```js
+import '@yelloxing/normalize.css/rasterize.css';
+```
+
 ## License
 
 [MIT](https://github.com/yelloxing/normalize.css/blob/master/LICENSE)
