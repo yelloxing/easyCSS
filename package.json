@@ -1,6 +1,6 @@
 {
   "name": "@yelloxing/normalize.css",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A modern, HTML5-ready alternative to CSS resets.",
   "main": "./index.css",
   "repository": {
